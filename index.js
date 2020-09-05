@@ -147,4 +147,3 @@ client.on('guildMemberUpdate', function(oldMember, newMember) {
 });
 
 // client.login(process.env.token);
-client.login(`NzQxNjgyNDY3ODkwNTI4NDI5.Xy7HoA.RYc-gv_f7DF51wQ7BLDbmn1YcAw`);
