@@ -147,4 +147,4 @@ client.on('guildMemberUpdate', function(oldMember, newMember) {
 });
 
 // client.login(process.env.token);
-deny
+// client.login(TOKEN HERE);
